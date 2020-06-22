@@ -1,0 +1,12 @@
+body{
+	font-family:Helvetica;
+}
+
+.test{
+	display:flex;
+	align-items:center;
+	background: lightgrey;
+	justify-content: center;
+	margin:50px;
+	padding:30px;
+}
